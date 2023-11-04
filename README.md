@@ -8,9 +8,8 @@ CODEX is a Remote Code Executor which lets you execute short code snippets of yo
 
 ## Authors
 
-- [@goldsnort](https://www.github.com/goldsnort)
-- [@Rithvik0701](https://www.github.com/Rithvik0701)
-- [@pragya0629](https://www.github.com/pragya0629)
+- [@Princemann56](https://github.com/Princemann56)
+
 
 
 ## Features
