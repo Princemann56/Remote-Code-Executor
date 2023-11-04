@@ -6,7 +6,7 @@
 
 CODEX is a Remote Code Executor which lets you execute short code snippets of yours remotely.
 
-## Authors
+## Author
 
 - [@Princemann56](https://github.com/Princemann56)
 
